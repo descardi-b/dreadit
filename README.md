@@ -35,6 +35,10 @@ This is a full-stack MERN app using a GraphQL API and Apollo Server for CRUD dat
 
 Dreadit is deployed at <a href="https://rocky-falls-31812.herokuapp.com/">rocky-falls-31812</a>.
 
+## Contributors
+
+Dreadit was built by <a href="https://github.com/descardi-b">descardi-b</a>, <a href="https://github.com/WinnieCWu">WinnieCWu</a>, <a href="https://github.com/aaronhleung">aaronhleung</a>, and <a href="https://github.com/sandycchen">sandycchen</a>
+
 #### License
 
 `dreadit` is published under the **CC0_1.0_Universal** license.
