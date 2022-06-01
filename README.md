@@ -31,6 +31,10 @@ This is a full-stack MERN app using a GraphQL API and Apollo Server for CRUD dat
 
 <img src="./img/dreadit-in-action.gif"/>
 
+## Heroku App
+
+Dreadit is deployed at <a href="https://rocky-falls-31812.herokuapp.com/">rocky-falls-31812</a>.
+
 #### License
 
 `dreadit` is published under the **CC0_1.0_Universal** license.
